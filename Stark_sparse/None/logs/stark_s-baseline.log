@@ -1,0 +1,2 @@
+[train: 1, 50 / 3750] FPS: 16.7 (91.6)  ,  Loss/total: 2.53309  ,  Loss/giou: 0.92392  ,  Loss/l1: 0.13705  ,  IoU: 0.16162
+[train: 1, 100 / 3750] FPS: 18.3 (22.3)  ,  Loss/total: 2.29396  ,  Loss/giou: 0.84950  ,  Loss/l1: 0.11899  ,  IoU: 0.23324
