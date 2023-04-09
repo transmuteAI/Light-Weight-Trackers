@@ -43,7 +43,11 @@ You can find tracker-specific codebase and its details below:
 ## Citation
 If our work is useful for your research, please consider cite:
 ```
-Citation
+@INPROCEEDINGS{aggarwal2022designing,
+  title={On designing light-weight object trackers through network pruning: Use CNNs or transformers?},
+  author={Aggarwal, Saksham and Gupta, Taneesh and Sahu, Pawan Kumar and Chavan, Arnav and Tiwari, Rishabh and Prasad, Dilip K and Gupta, Deepak K},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  year={2023}}
 ```
 
 
